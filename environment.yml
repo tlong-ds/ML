@@ -11,8 +11,7 @@ dependencies:
   - seaborn
   - jupyter
   - scipy
-  - tensorflow
-  - keras
+  - tensorflow=2.16
   - pip
   - pip:
       - xgboost
